@@ -1,0 +1,23 @@
+{
+    "name": "romanlazko/support-macroable",
+    "description": "Trait Macroable to dynamically add methods to your PHP classes.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "Roman Lazko",
+        "email": "romanlazko@gmail.com",
+        "homepage": "https://github.com/romanlazko"
+      }
+    ],
+    "autoload": {
+      "psr-4": {
+        "RomanLazko\\Support\\Traits\\": "src/Traits/"
+      }
+    },
+    "require": {
+      "php": ">=7.4"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+  }
