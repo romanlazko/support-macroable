@@ -12,7 +12,7 @@
     ],
     "autoload": {
       "psr-4": {
-        "RomanLazko\\Support\\Traits\\": "src/Traits/"
+        "RomanLazko\\Support\\Traits\\": "Traits/"
       }
     },
     "require": {
